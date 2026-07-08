@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.pth
+*.pyc
+.env
+owner_data/
+dist/
