@@ -5,3 +5,5 @@ __pycache__/
 .env
 owner_data/
 dist/
+build/
+*.log
